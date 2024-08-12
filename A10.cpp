@@ -164,9 +164,9 @@ int main() {
     ContactList contactList;
 
     // Add contacts to the list
-    contactList.addAtBeg("Eshika", "7974754963");
-    contactList.append("Ashish", "9754186097");
-    contactList.addAtPos("Pranjal", "8823019555", 1);
+    contactList.addAtBeg("Kanishk", "8839673561");
+    contactList.append("Ashsish", "9754186097");
+    contactList.addAtPos("Tanisha", "9827008550", 1);
     
     cout << "Contact list:" << endl;
     contactList.display();
